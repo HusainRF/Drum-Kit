@@ -1,4 +1,4 @@
-# Drum-Kit
+# Drum-Kit 🥁
 
 preview Link: https://drum-kit-hr.netlify.app/
 
